@@ -1,6 +1,6 @@
 # Hyperspectral-Change-Detection-Based-on-Multiple-Morphological-Profiles
 
-<img src="workflow.jpg" alt="Cover" width="70%"/>
+<img src="Workflow.jpg" alt="Cover" width="70%"/>
 Fig.1. Framework of proposed dual-pipeline hyperspectral change detection framework using multiple morphological profiles
 
 
