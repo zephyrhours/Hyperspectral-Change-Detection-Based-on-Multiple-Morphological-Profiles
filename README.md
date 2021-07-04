@@ -13,10 +13,11 @@ Fig.1. Framework of proposed dual-pipeline hyperspectral change detection framew
 - [Baidu Disk, Extraction code: ox7g](https://pan.baidu.com/s/1FucIQRCd16nuOUcffcHbhw)
 
 **Statement:**
-- The feature extraction in max-tree/min-tree was conducted in VISUAL STUDIO 2017 using C++ language, which provied by prof. Lu Li. 
-Due to copyright, this part of the codes can not be shared. If you have any requirements, please contact the third author in the paper.
-- [A Detailed Installation and Configuration Processing of OpenCV 3.4.1 and Visual Studio 2017](https://zephyrhours.github.io/post1.html)
-- [OpenCV3.4.1和VS2017配置过程详解](https://blog.csdn.net/NBDwo/article/details/107400010)
+- The feature extraction in max-tree/min-tree was conducted in VISUAL STUDIO 2017 using C++ language, which provied by prof. Lu Li.<br />
+Due to copyright, this part of the codes can not be shared. If you have any requirements, please contact the third author in the paper.<br />
+Installation and Configuration <br />
+- [English Blog: A Detailed Installation and Configuration Processing of OpenCV 3.4.1 and Visual Studio 2017](https://zephyrhours.github.io/post1.html)
+- [Chinese CSDN: OpenCV3.4.1和VS2017配置过程详解](https://blog.csdn.net/NBDwo/article/details/107400010)
 
 # Citation
 If these codes and dataset are helpful for you, please cite this paper:
