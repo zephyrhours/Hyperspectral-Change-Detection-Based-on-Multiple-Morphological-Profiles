@@ -14,7 +14,7 @@ Fig.1. Framework of proposed dual-pipeline hyperspectral change detection framew
 
 **Statement:**
 - The feature extraction in max-tree/min-tree was conducted in VISUAL STUDIO 2017 using C++ language, which provied by prof. Lu Li.<br />
-Due to copyright, this part of the codes can not be shared. If you have any requirements, please contact the third author in the paper.<br />
+Due to copyright, this part of the codes cannot be shared. If you have any requirements, please contact the third author in this paper.<br />
 
 **Installation and Configuration Instructions** <br />
 - [English Blog: A Detailed Installation and Configuration Processing of OpenCV 3.4.1 and Visual Studio 2017](https://zephyrhours.github.io/post1.html)
