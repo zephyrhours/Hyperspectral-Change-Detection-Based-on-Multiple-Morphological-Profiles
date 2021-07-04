@@ -9,8 +9,8 @@ Fig.1. Framework of proposed dual-pipeline hyperspectral change detection framew
 - [https://ieeexplore.ieee.org/document/9469924](https://ieeexplore.ieee.org/document/9469924)
 
 **Hermiston dataset:**
-- [Google Drive](https://drive.google.com/file/d/1-UqfGNsWXY3UnCjyG1WaDOxietuwF2XG/view?usp=sharing)
-- [Baidu Disk, Extraction code: 6c2e](https://pan.baidu.com/s/1u7gHjKtIGZXH3ykCX9APxw)
+- [Google Drive](https://drive.google.com/file/d/1KStxIEiZChTRawhcgrGF3yrSiRj8bRg2/view?usp=sharing)
+- [Baidu Disk, Extraction code: ox7g](https://pan.baidu.com/s/1FucIQRCd16nuOUcffcHbhw)
 
 # Citation
 If these codes and dataset are helpful for you, please cite this paper:
