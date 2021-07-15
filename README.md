@@ -5,7 +5,7 @@ Fig.1. Framework of proposed dual-pipeline hyperspectral change detection framew
 
 
 
-# Requirement
+# Prerequisites
 **MATLAB R2018a**<br />
 **C++ Language (Visual Studio 2017 and OpenCV 3.4.1)**
 
@@ -28,6 +28,7 @@ Due to copyright, this part of the codes cannot be shared. If you have any requi
 # Citation
 If these codes and dataset are helpful for you, please cite this paper:
 
+'''
 **BibTex Format:**<br />
 @ARTICLE{9469924,<br />
 author={Hou, Zengfu and Li, Wei and Li, Lu and Tao, Ran and Du, Qian},<br />
@@ -41,6 +42,7 @@ doi={10.1109/TGRS.2021.3090802}}
 
 **Plain Text Format:**<br />
 Z. Hou, W. Li, L. Li, R. Tao and Q. Du, "Hyperspectral Change Detection Based on Multiple Morphological Profiles," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3090802.
+'''
 
 # My Website
 - [Github Website](https://zephyrhours.github.io/)
