@@ -7,7 +7,7 @@ Fig.1. Framework of proposed dual-pipeline hyperspectral change detection framew
 
 # Requirement
 **MATLAB R2018a**<br />
-**C++ Language (Visual studio 2017 and OpenCV 3.4.1)**
+**C++ Language (Visual Studio 2017 and OpenCV 3.4.1)**
 
 # Source
 **Paper Download:**
