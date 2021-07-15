@@ -4,6 +4,11 @@
 Fig.1. Framework of proposed dual-pipeline hyperspectral change detection framework using multiple morphological profiles
 
 
+
+# Requirement
+**MATLAB R2018a**
+**C++ Language (Visual studio 2017 and OpenCV 3.4.1)**
+
 # Source
 **Paper Download:**
 - [https://ieeexplore.ieee.org/document/9469924](https://ieeexplore.ieee.org/document/9469924)
