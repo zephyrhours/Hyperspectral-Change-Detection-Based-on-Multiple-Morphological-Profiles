@@ -46,6 +46,13 @@ doi={10.1109/TGRS.2021.3090802}}
 Z. Hou, W. Li, L. Li, R. Tao and Q. Du, "Hyperspectral Change Detection Based on Multiple Morphological Profiles," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3090802.
 ```
 
+
+# Other Related Papers
+
+[**Zengfu Hou**, Wei Li, Ran Tao, and Qian Du. Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021, doi: 10.1109/JSTARS.2021.3088438](https://ieeexplore.ieee.org/document/9451632)
+
+[**Zengfu Hou**, Wei Li, and Qian Du. A PATCH TENSOR-BASED CHANGE DETECTION FOR HYPERSPECTRAL IMAGES[C]. International Geoscience and Remote Sensing Symposium, 2021](https://drive.google.com/file/d/1M9cKwbDn8mbvd7VIx1CmWNKYnGnDm4pO/view?usp=sharing)
+
 # My Website
 - [Github Website](https://zephyrhours.github.io/)
 - [Chinese CSDN](https://blog.csdn.net/NBDwo)
