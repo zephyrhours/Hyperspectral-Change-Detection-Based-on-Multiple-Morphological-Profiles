@@ -49,9 +49,9 @@ Z. Hou, W. Li, L. Li, R. Tao and Q. Du, "Hyperspectral Change Detection Based on
 
 # Other Related Papers
 
-**Zengfu Hou**, Wei Li, Ran Tao, and Qian Du. [Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection](https://ieeexplore.ieee.org/document/9451632) [J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021, doi: 10.1109/JSTARS.2021.3088438]
+[1] **Zengfu Hou**, Wei Li, Ran Tao, and Qian Du. [Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection](https://ieeexplore.ieee.org/document/9451632) [J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021, doi: 10.1109/JSTARS.2021.3088438]
 
-**Zengfu Hou**, Wei Li, and Qian Du. [A PATCH TENSOR-BASED CHANGE DETECTION FOR HYPERSPECTRAL IMAGES](https://drive.google.com/file/d/1M9cKwbDn8mbvd7VIx1CmWNKYnGnDm4pO/view?usp=sharing) [C]. International Geoscience and Remote Sensing Symposium, 2021, inprint.
+[2] **Zengfu Hou**, Wei Li, and Qian Du. [A PATCH TENSOR-BASED CHANGE DETECTION FOR HYPERSPECTRAL IMAGES](https://drive.google.com/file/d/1M9cKwbDn8mbvd7VIx1CmWNKYnGnDm4pO/view?usp=sharing) [C]. International Geoscience and Remote Sensing Symposium, 2021, inprint.
 
 # My Website
 - [Github Website](https://zephyrhours.github.io/)
