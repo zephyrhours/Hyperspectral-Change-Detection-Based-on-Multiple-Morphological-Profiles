@@ -18,7 +18,8 @@ Fig.1. Framework of proposed dual-pipeline hyperspectral change detection framew
 - [Baidu Disk, Extraction code: ox7g](https://pan.baidu.com/s/1FucIQRCd16nuOUcffcHbhw)
 
 **Statement:**
-- The morphological feature extraction in max-tree/min-tree was conducted in VISUAL STUDIO 2017 using C++ language, which provied by prof. Lu Li. Due to copyright, this part of the codes cannot be shared. If you have any requirements, please contact the third author in this paper.<br />
+- The morphological feature extraction in max-tree/min-tree was conducted in VISUAL STUDIO 2017 using C++ language, which provied by prof. Lu Li. Due to copyright, this part of the codes cannot be shared. ** However, in order to reproduce the experimental results, we are packaging it into an EXE program, which will be released soon. ** If you have any requirements, please contact the third author in this paper.<br />
+
 
 **Installation and Configuration Instructions:** <br />
 - [English Blog: A Detailed Installation and Configuration Processing of OpenCV 3.4.1 and Visual Studio 2017](https://zephyrhours.github.io/post1.html)
