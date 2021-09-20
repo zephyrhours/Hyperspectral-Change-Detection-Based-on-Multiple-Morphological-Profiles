@@ -23,15 +23,9 @@ Fig.1. Framework of proposed dual-pipeline hyperspectral change detection framew
 **Instructions:**
 
 <img src="demo_mintree.png" alt="MinTree">
-Fig.2. Description of min-tree morphological profiles extraction
-
-
 <img src="demo_mintree_step1.png" alt="step1">
-Fig.2. step1
-
-
 <img src="demo_mintree_step2.png" alt="step2">
-Fig.2. step2
+
 
 
 
