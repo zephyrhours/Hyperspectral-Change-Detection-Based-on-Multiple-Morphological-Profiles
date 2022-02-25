@@ -18,8 +18,8 @@ Fig.1. Framework of proposed dual-pipeline hyperspectral change detection framew
 - [Baidu Disk, Extraction code: ox7g](https://pan.baidu.com/s/1FucIQRCd16nuOUcffcHbhw)
 
 **Statement:**
-- The morphological feature extraction in max-tree/min-tree was conducted in VISUAL STUDIO 2017 using C++ language, which provied by prof. Lu Li. Due to copyright, this part of the codes cannot be shared. **However, in order to reproduce the experimental results, we have encapsulated it into an EXE program, and now it has been released.** If you want to use this codes, please contact me by email.<br />
-
+- The morphological feature extraction in max-tree/min-tree was conducted in VISUAL STUDIO 2017 using C++ language, which provied by prof. Lu Li. Due to copyright, this part of the codes cannot be shared. **However, in order to reproduce the experimental results, we have encapsulated it into an EXE program, and now it has been released.** <br />
+- [C++ Matree/Mintree codes](https://github.com/zephyrhours/Max-Tree-and-Min-Tree-Morphological-Feature-Extraction)
 **Instructions:**
 
 <img src="demo_mintree.png" alt="MinTree">
